@@ -1,1 +1,0 @@
-# SQL_practical-1
